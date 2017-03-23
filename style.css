@@ -1,0 +1,9 @@
+.container {
+  max-width: 800px;
+  width: 90%;
+  margin: 0 auto;
+}
+
+header, footer {
+  margin: 10px;
+}
